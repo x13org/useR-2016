@@ -1,9 +1,10 @@
-### Extending CRAN Packages with Binaries: The Example of x13binary
-#### useR! 2016 at Stanford, CA
+## Extending CRAN Packages with Binaries: </br> The Example of x13binary
 
-*by Dirk Eddelbuettel and Christoph Sax*
+useR! 2016 at Stanford, CA
 
-The slides can be downloaded from [here](https://github.com/x13org/useR-2016)
+*[Dirk Eddelbuettel](http://dirk.eddelbuettel.com) and [Christoph Sax](http://www.christophsax.com)*
+
+The slides can be downloaded from [here](https://github.com/x13org/useR-2016/raw/master/x13useR.pdf).
 
 #### Abstract
 
